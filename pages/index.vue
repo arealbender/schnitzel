@@ -18,13 +18,34 @@
         label: 'Tag 2',
         items: [{
             label: 'Station 1',
-            locationLabel: 'placeholder',
+            locationLabel: 'Botanischer Garten',
             hint1: 'bla',
             hint2: 'blaaabluuub',
             solution: 'langweilig'
         }, {
             label: 'Station 2',
-            locationLabel: 'placeholder',
+            locationLabel: 'Gymnasium Vogelsang',
+            hint1: 'blablub',
+            hint2: 'blaaabluuub',
+            solution: 'langweilig'
+        }, {
+            label: 'Station 3',
+            locationLabel: 'Bärenloch',
+            hint1: 'blablub',
+            hint2: 'blaaabluuub',
+            solution: 'langweilig'
+        }]
+    }, {
+        label: 'Tag 3',
+        items: [{
+            label: 'Station 1',
+            locationLabel: 'Müngstener Brücke',
+            hint1: 'bla',
+            hint2: 'blaaabluuub',
+            solution: 'langweilig'
+        }, {
+            label: 'Station 2',
+            locationLabel: 'Schloss Burg',
             hint1: 'blablub',
             hint2: 'blaaabluuub',
             solution: 'langweilig'
