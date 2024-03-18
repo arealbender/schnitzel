@@ -4,53 +4,32 @@
         items: [{
             label: 'Station 1',
             locationLabel: 'Wald Kirche',
-            hint1: 'blablub',
-            hint2: 'blaaabluuub',
-            solution: 'langweilig'
+            hint1: 'haste',
+            hint2: 'ja schon',
+            solution: 'gelöst <3'
         }, {
             label: 'Station 2',
             locationLabel: 'Jahnkampfbahn',
-            hint1: 'blablub',
-            hint2: 'blaaabluuub',
-            solution: 'langweilig'
+            hint1: ' versteckt hinter dem was du verlässt',
+            hint2: 'ortsschild',
+            solution: 'Hinter dem Schild auf dem Wald steht, geklebt an die rechte seite'
         }]
     }, {
         label: 'Tag 2',
         items: [{
             label: 'Station 1',
             locationLabel: 'Botanischer Garten',
-            hint1: 'bla',
-            hint2: 'blaaabluuub',
-            solution: 'langweilig'
+            hint1: 'such was fehlt',
+            hint2: 'im Insekt - versteckt',
+            solution: 'Im Kopf des Grashüpfers'
         }, {
             label: 'Station 2',
-            locationLabel: 'Gymnasium Vogelsang',
-            hint1: 'blablub',
-            hint2: 'blaaabluuub',
-            solution: 'langweilig'
-        }, {
-            label: 'Station 3',
             locationLabel: 'Bärenloch',
-            hint1: 'blablub',
-            hint2: 'blaaabluuub',
-            solution: 'langweilig'
-        }]
-    }, {
-        label: 'Tag 3',
-        items: [{
-            label: 'Station 1',
-            locationLabel: 'Müngstener Brücke',
-            hint1: 'bla',
-            hint2: 'blaaabluuub',
-            solution: 'langweilig'
-        }, {
-            label: 'Station 2',
-            locationLabel: 'Schloss Burg',
-            hint1: 'blablub',
-            hint2: 'blaaabluuub',
-            solution: 'langweilig'
-        }]
-    }]
+            hint1: ' was schon fast tot, erklimm zur Not',
+            hint2: 'ein 3d gedrucktes Teil erbouldern',
+            solution: 'im Toten Baum neben dem Volleyballplatz hochklettern und oben zwischen den Ästen das Teil suchen'
+        }]
+    }]
 </script>
 
 <style>
