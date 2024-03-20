@@ -1,7 +1,7 @@
 <template>
     <ClientOnly>
-        <iframe v-if="false" src="https://bullethelljanok.netlify.app/" width="100%" height="100%"></iframe>
-        <span>Coming soon... (spätestens Freitag)</span>
+        <iframe v-if="true" src="https://bullethelljanok.netlify.app/" width="100%" height="100%"></iframe>
+        <!-- <span>Coming soon... (spätestens Freitag)</span> -->
     </ClientOnly>
 </template>
 
